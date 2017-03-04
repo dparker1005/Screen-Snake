@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SnakeDen
+comment0.text=\n\ Write\ a\ description\ of\ class\ SnakeDen\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=modeIn
+comment1.target=SnakeDen(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SnakeDen.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ colorChange()
+comment4.params=
+comment4.target=void\ deathCheck()
+comment5.params=
+comment5.target=void\ processCollision()
+comment6.params=
+comment6.target=void\ foodRemover()
+comment7.params=
+comment7.target=void\ processKeyboard()
+numComments=8
