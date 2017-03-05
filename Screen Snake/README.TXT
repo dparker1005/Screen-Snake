@@ -30,7 +30,6 @@ Playing The Game:
 
 1. Controls
 	Arrow Keys- Used to control the snake.
-	     S Key- Used to toggle the sound in the game.
 	 Space Bar-Used to teleport to a random position on the screen.*
 2. Run over food to increase the size of the snake and your score by 1.
 3. Knowing your score-The snake will change color after certain amounts of points.
@@ -47,4 +46,4 @@ Playing The Game:
 	 the edge of the screen.
 	
 
-*Only available in Wall Games and Badass Games.
+*Only available in Wall Games and Challenge Mode.
