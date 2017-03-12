@@ -30,7 +30,7 @@ Playing The Game:
 
 1. Controls
 	Arrow Keys- Used to control the snake.
-	 Space Bar-Used to teleport to a random position on the screen.*
+	 Space Bar-Used to teleport to a random position on the screen.**
 2. Run over food to increase the size of the snake and your score by 1.
 3. Knowing your score-The snake will change color after certain amounts of points.
 		 0-Green
@@ -46,4 +46,4 @@ Playing The Game:
 	 the edge of the screen.
 	
 
-*Only available in Wall Games and Challenge Mode.
+**Only available in Wall Games and Challenge Mode.
