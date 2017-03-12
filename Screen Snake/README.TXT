@@ -21,8 +21,8 @@ Starting The Game:
 		     discussed later.
 	 Speed Game- The same as the Normal Game, except the snake gets faster after every 
 		     piece of food eaten.
-	Badass Game- Wall Game and Speed Game combined. 
-		     WARNING: YOU WILL DIE. FAST.
+     Challenge Mode- Wall Game and Speed Game combined. 
+		    
 
 *Make sure to click the center of the text.
 ------------------------------------------------------------------------------------------
